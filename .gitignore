@@ -1,0 +1,10 @@
+.vercel
+
+!vercel-build-api/.vercel
+vercel-build-api/.vercel/project.json
+vercel-build-api/.vercel/README.txt
+
+node_modules
+
+.output
+.nuxt
